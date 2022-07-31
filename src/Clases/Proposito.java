@@ -1,0 +1,11 @@
+package Clases;
+
+public enum Proposito {
+    LANZAR_CARGA,
+    VEHICULO_TRASFERENCIA,
+    EXPLORACION_REMOTA,
+    MISION_TRIPULADA,
+    LAB_CIENCIA_TRIPULADO,
+    MANTENIMIENTO;
+
+}
